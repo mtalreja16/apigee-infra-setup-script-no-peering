@@ -1,4 +1,5 @@
 # apigee-infra-setup-script-no-peering
+Open Cloud Shell, clone the repo and and run following commands..
 
 Edit env.sh
 
